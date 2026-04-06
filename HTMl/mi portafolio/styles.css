@@ -1,0 +1,32 @@
+header {
+    background-color: beige;
+    padding: 10px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 3px solid black;
+}
+
+nav {
+    background-color:azure;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 3px solid black;
+}
+
+img {
+    width: 75%;
+    padding: 10px;
+}
+
+video {
+    width: 75%;
+    padding: 10px;
+}
+
+footer {
+    background-color: beige;
+    padding: 20px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 3px solid black;
+}

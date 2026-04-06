@@ -1,0 +1,27 @@
+body {
+    background-color: aqua;
+    margin: 0;
+}
+
+.box {
+    width: 100%;
+    height: 250px;
+    margin: 20px;
+    background-color: #f3e7;
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/036/324/852/small/ai-generated-picture-of-a-tiger-walking-in-the-forest-photo.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+}
+
+.opaco {
+    height: 100%;
+    width: 100%;
+    background-color: #000a;
+}
+
+h2 {
+    color: whitesmoke;
+}

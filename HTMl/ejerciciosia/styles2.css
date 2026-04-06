@@ -1,0 +1,26 @@
+h1 {
+    color: brown;
+    text-align: center;
+    background: antiquewhite;
+}
+ul {
+    color: indigo;
+    background: antiquewhite;
+}
+a {
+    color: indigo;
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+    background: antiquewhite;
+}
+img {
+    display: block;
+    margin: 0 180px;
+    width: 50%;
+    border: 2px solid black;
+}
+body {
+    background-color: aqua;
+    border: 1px solid black;
+}

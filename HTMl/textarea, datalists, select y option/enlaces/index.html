@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <form action="">
+        <h2>Formulario de contacto</h2>
+        <div class="form_input">
+            <label for="Nombre">
+                Nombre
+                <input type="text" id="Nombre" placeholder="Mario Alejandro">
+            </label>
+        </div>
+        <div class="form_input">
+            <label for="Correo">
+                Correo electrónico
+                <input type="email" id="Correo" placeholder="mario@gmail.com">
+            </label>
+        </div>
+        <div class="form_input">
+            <label>
+                Tipo de usuario
+                <select>
+                    <option>Seguidor/a</option>
+                    <option>Empresa</option>
+                    <option>Otros</option>
+                </select>
+            </label>
+        </div>
+        <div class="form_input">
+            <label for="Comentario">
+                Comentario
+                <textarea id="Comentario" rows="6" placeholder="Ingresa un comentario..."></textarea>
+            </label>
+        </div>
+        <div class="form_input">
+            <label class="label_checkbox">
+                <input type="checkbox" class="checkbox">
+                Acepto<a href="terms.html">términos y condiciones</a>
+            </label>
+        </div>
+    </form>
+</body>
+</html>

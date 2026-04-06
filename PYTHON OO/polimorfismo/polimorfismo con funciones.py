@@ -1,0 +1,2 @@
+print(len("Hola"))
+print(len([1, 2, 3, 4]))
